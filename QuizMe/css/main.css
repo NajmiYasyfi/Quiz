@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #329393;
+  align-items: center;
+  justify-content: space-between;
+}
+
+body {
+  background: linear-gradient(#41c4c4, #a2ffff) no-repeat center center fixed;
+  background-size: cover;
+}
+
+#card {
+  margin-top: 8rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  margin-bottom: 8rem;
+}
+
+footer {
+  background-color: #329393;
+}

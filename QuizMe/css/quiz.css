@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #329393;
+  align-items: center;
+  justify-content: space-between;
+}
+
+body {
+  background: linear-gradient(#41c4c4, #a2ffff) no-repeat center center fixed;
+  background-size: cover;
+  margin-bottom: 3rem;
+}
+
+.card {
+  /* Mengatur opacity background menjadi 50% */
+  background-color: rgba(84, 186, 186, 0.5);
+  /* Memberikan efek gaussian blur pada background */
+  backdrop-filter: blur(10px);
+}
